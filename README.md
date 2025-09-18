@@ -16,7 +16,7 @@ This project analyzes scheduled BART trips between **Richmond (RICH)** and **Civ
 
 ## Requirements
 - Python 3.x  
-- Libraries: `pandas`, `requests`, `plotly`, `numpy`
+- Libraries: `pandas`, `requests`, `plotly`
 
 ## Run
 ```bash
